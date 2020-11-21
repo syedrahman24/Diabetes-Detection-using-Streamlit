@@ -41,7 +41,10 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 - The webapp will get implemented on a localhost with address.
 
 # Snapshots
-
+![401](https://user-images.githubusercontent.com/57063763/99875263-26fcc580-2c14-11eb-800b-d488a709aa18.png)
+![402](https://user-images.githubusercontent.com/57063763/99875264-28c68900-2c14-11eb-9f18-3ce7df51c0e5.png)
+![403](https://user-images.githubusercontent.com/57063763/99875265-28c68900-2c14-11eb-9c40-57bf05065795.png)
+![404](https://user-images.githubusercontent.com/57063763/99875266-295f1f80-2c14-11eb-8abc-c687446ced6a.png)
 
 
 
