@@ -36,7 +36,7 @@ Streamlit is an open-source Python library that makes it easy to create and shar
 # How to Use
 - Download the Zip File.
 - Pip install pandas, sklearn and streamlit
-- Run the Code in any Editor
+- Run the Code in any Editor ( set the source of csv file according to your destination folder )
 - To run the webapp, Open Command Prompt and enter => streamlit run "C:\Users\ROB\......whatever your source is.....\webapp.py"
 - The webapp will get implemented on a localhost with address.
 
